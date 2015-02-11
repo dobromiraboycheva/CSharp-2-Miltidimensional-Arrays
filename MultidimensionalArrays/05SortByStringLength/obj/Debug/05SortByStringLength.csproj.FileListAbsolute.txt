@@ -1,0 +1,5 @@
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\05SortByStringLength\bin\Debug\05SortByStringLength.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\05SortByStringLength\bin\Debug\05SortByStringLength.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\05SortByStringLength\bin\Debug\05SortByStringLength.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\05SortByStringLength\obj\Debug\05SortByStringLength.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\05SortByStringLength\obj\Debug\05SortByStringLength.pdb

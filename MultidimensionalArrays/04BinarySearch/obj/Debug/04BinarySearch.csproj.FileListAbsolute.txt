@@ -1,0 +1,5 @@
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\04BinarySearch\bin\Debug\04BinarySearch.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\04BinarySearch\bin\Debug\04BinarySearch.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\04BinarySearch\bin\Debug\04BinarySearch.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\04BinarySearch\obj\Debug\04BinarySearch.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\04BinarySearch\obj\Debug\04BinarySearch.pdb

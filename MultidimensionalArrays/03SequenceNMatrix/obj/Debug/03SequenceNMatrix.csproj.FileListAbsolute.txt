@@ -1,0 +1,6 @@
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\03SequenceNMatrix\bin\Debug\03SequenceNMatrix.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\03SequenceNMatrix\obj\Debug\03SequenceNMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\03SequenceNMatrix\bin\Debug\03SequenceNMatrix.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\03SequenceNMatrix\bin\Debug\03SequenceNMatrix.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\03SequenceNMatrix\obj\Debug\03SequenceNMatrix.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\03SequenceNMatrix\obj\Debug\03SequenceNMatrix.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\bin\Debug\01FillTheMatrix.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\bin\Debug\01FillTheMatrix.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.csprojResolveAssemblyReference.cache
