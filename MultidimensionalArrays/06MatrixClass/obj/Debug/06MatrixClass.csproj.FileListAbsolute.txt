@@ -1,1 +1,6 @@
 C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\06MatrixClass\bin\Debug\06MatrixClass.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\06MatrixClass\bin\Debug\06MatrixClass.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\06MatrixClass\bin\Debug\06MatrixClass.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\06MatrixClass\obj\Debug\06MatrixClass.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\06MatrixClass\obj\Debug\06MatrixClass.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\MultidimensionalArrays\06MatrixClass\obj\Debug\06MatrixClass.pdb
